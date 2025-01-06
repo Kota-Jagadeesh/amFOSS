@@ -1,56 +1,41 @@
-/* Setting background color */
 body {
-    margin: 0;
-    padding: 0;
-    background-color: #2b2b2b; /* Dark blue background */
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-  
-  /* Styling the title */
-  #title {
-    color: white;
-    font-size: 3rem;
-    font-weight: bold;
-    margin-bottom: 20px;
-  }
-  
-  /* Drum button set container */
-  .set {
-    display: flex;
-    gap: 15px; /* Spacing between buttons */
-  }
-  
-  /* Styling individual drum buttons */
-  button.drum {
-    background-color: white;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0 5px #ccc; /* Slight shadow for 3D effect */
-    color: #b30059; /* Pinkish-red text color */
-    cursor: pointer;
-    font-size: 2rem;
-    font-weight: bold;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-    outline: none;
-    transition: transform 0.2s, box-shadow 0.2s; /* Animation for button press */
-  }
-  
-  /* Hover effect for buttons */
-  button.drum:hover {
-    background-color: #f3f3f3;
-    transform: scale(1.05);
-  }
-  
-  /* Active (pressed) button effect */
-  button.drum:active {
-    box-shadow: 0 2px #aaa;
-    transform: translateY(4px); /* Button pressed down */
-  }
-  
+  margin: 0;
+  padding: 0;
+  background: #2b2b2b;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+#title {
+  color: white;
+  font: bold 3rem 'Arial', sans-serif;
+  margin-bottom: 20px;
+}
+.set {
+  display: flex;
+  gap: 15px;
+}
+button.drum {
+  background: white;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #ccc;
+  color: #b30059;
+  cursor: pointer;
+  font: bold 2rem 'Arial', sans-serif;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+button.drum:hover {
+  background: #f3f3f3;
+  transform: scale(1.05);
+}
+button.drum:active {
+  box-shadow: 0 2px #aaa;
+  transform: translateY(4px);
+}
