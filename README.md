@@ -31,14 +31,14 @@ The following table summarizes the current status of my project tasks:
 | [TASK-00](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-00) | Installing Linux 🐧              | COMPLETED ✅        |
 | [TASK-01](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-01) | The Command Line Cup🖥️                     | COMPLETED ✅        |
 | [TASK-02](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-02) | Pixelated Problem Solver🖼️                  | COMPLETED ✅        |
-| [TASK-03](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-03) | Beat the Buttons🔘                 | PARTIALLY COMPLETED 🔄 |
+| [TASK-03](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-03) | Beat the Buttons🔘                 | COMPLETED ✅  |
 | [TASK-04](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-04) | Code the Puzzles👨‍💻            | PARTIALLY COMPLETED 🔄 |
-| [TASK-05] | Pokémon Rescue🛟                 | NOT COMPLETED ❌    |
-| [TASK-06](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-06) | Flutter JumpStart📂                      | COMPLETED ✅        |
-| TASK-07  | Weather Guardian🌦️             | NOT COMPLETED ❌    |
-| [TASK-08](https://github.com/Jagadeesh-18-bot/amfoss-tasks/tree/main/TASK-08) | Compute Shader🖥️                   | COMPLETED ✅        |
-| TASK-09  | Operation Kernel🔧                         | NOT COMPLETED ❌    |
-| TASK-10  | Operation Pixel Merge 🖼️          | NOT COMPLETED ❌    |
+| [TASK-05](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/TASK-05) | Pokémon Rescue🛟                 | NOT COMPLETED ❌    |
+| [TASK-06](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/TASK-06) | Flutter JumpStart📂                      |       |
+| [TASK-07](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/TASK-07)  | Weather Guardian🌦️             | COMPLETED ✅ |
+| [TASK-08](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/TASK-08) | Compute Shader🖥️                   |         |
+| [TASK-09](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/TASK-09)  | Operation Kernel🔧                         | PARTIALLY COMPLETED 🔄    |
+
 
 ## Notes 📝
 
