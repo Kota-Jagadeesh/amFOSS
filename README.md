@@ -33,10 +33,10 @@ The following table summarizes the current status of my project tasks:
 | [TASK-02](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-02) | Pixelated Problem Solver🖼️                  | COMPLETED ✅        |
 | [TASK-03](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-03) | Beat the Buttons🔘                 | COMPLETED ✅  |
 | [TASK-04](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-04) | Code the Puzzles👨‍💻            | PARTIALLY COMPLETED 🔄 |
-| [TASK-05](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-05) | Pokémon Rescue🛟                 | NOT COMPLETED ❌    |
-| [TASK-06](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-06) | Flutter JumpStart📂                      |       |
+| [TASK-05](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-05) | Pokémon Rescue🛟                 | COMPLETED ✅    |
+| [TASK-06](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-06) | Flutter JumpStart📂                      | NOT COMPLETED ❌         |
 | [TASK-07](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-07)  | Weather Guardian🌦️             | COMPLETED ✅ |
-| [TASK-08](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-08) | Compute Shader🖥️                   |         |
+| [TASK-08](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-08) | Compute Shader🖥️                   | NOT COMPLETED ❌         |
 | [TASK-09](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-09)  | Operation Kernel🔧                         | PARTIALLY COMPLETED 🔄    |
 
 
