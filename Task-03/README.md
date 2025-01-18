@@ -18,7 +18,7 @@ The goal of the task was to design a webpage with **seven buttons**, where:
   - Each button was associated with a unique sound.
   - Clicking the buttons triggered the appropriate audio playback.
 
-### Completion & Reflection ✅
+### Completion ✅
 After carefully following the instructions, I successfully created a **lookalike webpage** as described in the task document. Seeing my code come to life with a functional and visually appealing webpage was incredibly rewarding. 🎉
 
 ### Files for Reference 📂
