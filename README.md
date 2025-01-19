@@ -1,7 +1,7 @@
 # amFOSS TASKS 🚀
 
 ## About Me 🙋‍♂️
-Hello! I am K. Jagadeeshwar Reddy from Andhra Pradesh. My mother tongue is Telugu. I am currently an MPC student in Intermediate. My hobbies include playing badminton 🏸, which I deeply enjoy, and indulging in my love for music 🎵. In my leisure time, I watch movies 🎬 to unwind. I have a strong passion for coding 💻 and enjoy working on computers for extended periods, constantly seeking to improve my skills.
+Hello! I am K. Jagadeeshwar Reddy from Andhra Pradesh. My mother tongue is Telugu. I am an MPC student in Intermediate. My hobbies include playing badminton 🏸, which I deeply enjoy, and indulging in my love for music 🎵. In my leisure time, I watch movies 🎬 to unwind. I have a strong passion for coding 💻 and enjoy working on computers for extended periods, constantly seeking to improve my skills.
 
 ## Why Should You Choose Me? 🤔
 You should choose me because I am highly passionate about coding 💻 and committed to developing my skills further. I am eager to learn 📚 and grow, dedicating my time and effort to improve daily. I approach tasks with responsibility ✅, ensuring that I give my best effort to complete them within the stipulated time. My dedication, combined with my enthusiasm for learning, makes me a strong candidate for the FOSS Club. I am confident that I can bring a positive and determined attitude to the club.
