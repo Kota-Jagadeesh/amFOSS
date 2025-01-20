@@ -7,4 +7,5 @@
 - Begin tackling AMFOSS tasks 🚀  
 - Document progress and challenges 📘
   
-Let the journey begin!
+
+
