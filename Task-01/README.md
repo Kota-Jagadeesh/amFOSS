@@ -28,7 +28,7 @@ Thus, the required file was in the folder `04`, with the spell file being `Spell
 
 To access the file, I switched to the appropriate Git branch using the command:
 ```bash
-git checkout remotes/origin/defenseAgainstTheDarkArts
+git checkout defenseAgainstTheDarkArts
 ```
 I found the file and copied it to the main branch using:
 ```bash
