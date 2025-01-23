@@ -38,7 +38,7 @@ class MainWindow(QMainWindow):
 
         labelmov = QLabel(self)
         labelmov.setScaledContents(True)
-        movie = QMovie("../assets/openingpokeball-pokemon.gif")
+        movie = QMovie("openingpokeball-pokemon.gif")
         labelmov.setGeometry(QRect(0, 0, 900,478))
         labelmov.setMovie(movie)
         movie.start() 

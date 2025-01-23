@@ -4,31 +4,31 @@
 function playSound(key) {
     switch (key) {
       case "w":
-        var tom1 = new Audio("sounds/A.mp3"); // Replace with your sound file path
+        var tom1 = new Audio("sounds/crash.mp3"); 
         tom1.play();
         break;
       case "a":
-        var tom2 = new Audio("sounds/B.mp3");
+        var tom2 = new Audio("sounds/kick-bass.mp3");
         tom2.play();
         break;
       case "s":
-        var tom3 = new Audio("sounds/C.mp3");
+        var tom3 = new Audio("sounds/snare.mp3");
         tom3.play();
         break;
       case "d":
-        var tom4 = new Audio("sounds/D.mp3");
+        var tom4 = new Audio("sounds/tom-1.mp3");
         tom4.play();
         break;
       case "j":
-        var snare = new Audio("sounds/E.mp3");
+        var snare = new Audio("sounds/tom-2.mp3");
         snare.play();
         break;
       case "k":
-        var crash = new Audio("sounds/F.mp3");
+        var crash = new Audio("sounds/tom-3.mp3");
         crash.play();
         break;
       case "l":
-        var kick = new Audio("sounds/G.mp3");
+        var kick = new Audio("sounds/tom-4.mp3");
         kick.play();
         break;
       default:
@@ -36,7 +36,7 @@ function playSound(key) {
     }
   }
   
-  // Adding event listeners to buttons
+  // Adding the event listeners to buttons
   var drumButtons = document.querySelectorAll(".drum");
   
   drumButtons.forEach((button) => {
@@ -46,7 +46,7 @@ function playSound(key) {
     });
   });
   
-  // Adding event listener for keypresses
+  // Adding the event listener for keypresses
   document.addEventListener("keydown", function (event) {
     playSound(event.key);
   });
