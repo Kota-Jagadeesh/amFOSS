@@ -36,7 +36,7 @@ The following table summarizes the current status of my project tasks:
 | [TASK-05](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-05) | Pokémon Rescue🛟                 | COMPLETED ✅    |
 | [TASK-06](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-06) | Flutter JumpStart📂                      | NOT COMPLETED ❌         |
 | [TASK-07](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-07)  | Weather Guardian🌦️             | COMPLETED ✅ |
-| [TASK-08](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-08) | Compute Shader🖥️                   | NOT COMPLETED ❌         |
+| [TASK-08](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-08) | Compute Shader🖥️                   | PARTIALLY COMPLETED ❌         |
 | [TASK-09](https://github.com/Jagadeesh-18-bot/Amfoss-Tasks/tree/main/Task-09)  | Operation Kernel🔧                         | PARTIALLY COMPLETED 🔄    |
 
 
