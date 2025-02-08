@@ -17,7 +17,8 @@ This task was divided into **4 parts**:
 
 ---
 
-![My Output](output.gif)
+<img src="output.gif" width="400"/>
+
  
 
 ---
