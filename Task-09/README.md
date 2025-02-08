@@ -17,7 +17,7 @@ This task was divided into **4 parts**:
 
 ---
 
-<img src="output.gif" width="400"/>
+<img src="output.gif" width="600"/>
 
  
 
