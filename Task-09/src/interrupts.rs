@@ -91,13 +91,13 @@ fn success(chars: &[Option<char>; ARRAY_SIZE]) -> bool {
     chars[..ARRAY_SIZE-1] == [Some('a'), Some('m'), Some('f'), Some('o'), Some('s'), Some('s')]
 }
 
-// Function to shift characters to the left in the array
-fn left_shift(chars: &mut [Option<char>; ARRAY_SIZE]) {
-    for i in 0..ARRAY_SIZE - 1 {
-        chars[i] = chars[i + 1];
-    }
-    chars[ARRAY_SIZE - 1] = None;
-}
+// // Function to shift characters to the left in the array
+// fn left_shift(chars: &mut [Option<char>; ARRAY_SIZE]) {
+//     for i in 0..ARRAY_SIZE - 1 {
+//         chars[i] = chars[i + 1];
+//     }
+//     chars[ARRAY_SIZE - 1] = None;
+// }
 
 // Function to add a character to the character array
 fn add_character(chars: &mut [Option<char>; ARRAY_SIZE], character: char) -> Result<(), &'static str> {
@@ -106,10 +106,9 @@ fn add_character(chars: &mut [Option<char>; ARRAY_SIZE], character: char) -> Res
         chars[ARRAY_SIZE - 1] = None;
     }
 
-    // Find the first available index (None) and insert the new character
     unsafe {
         for i in COUNT..ARRAY_SIZE-1 {
-            let index = ARRAY_SIZE - i - 2;
+            let index = i;
             if chars[index].is_none() {
                 COUNT += 1;
                 chars[index] = Some(character);

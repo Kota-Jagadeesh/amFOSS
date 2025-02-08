@@ -97,7 +97,7 @@ class CapturedPokemonWindow(QWidget):
         # Load Pokémon images from the folder
         self.load_all_pokemon()
 
-        self.current_index = 0
+        self.current_index = 1
         self.image_label = QLabel(self)
         self.image_label.setGeometry(50, 50, 300, 300)
         self.image_label.setScaledContents(True)
@@ -133,6 +133,8 @@ class CapturedPokemonWindow(QWidget):
         if self.current_index < len(self.captured_pokemon) - 1:
             self.current_index += 1
             self.show_pokemon(self.current_index)
+
+
 
 if __name__ == "__main__":
     app = QApplication([])

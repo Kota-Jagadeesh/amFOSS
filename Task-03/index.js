@@ -31,8 +31,8 @@ function playSound(key) {
         var kick = new Audio("sounds/tom-4.mp3");
         kick.play();
         break;
-      default:
-        console.log(key);
+        default:
+          console.log(key);
     }
   }
   
