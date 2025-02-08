@@ -17,7 +17,7 @@ This task was divided into **4 parts**:
 
 ---
 
-![My Output](Task-09/output.gif)
+![My Output](output.gif)
  
 
 ---
