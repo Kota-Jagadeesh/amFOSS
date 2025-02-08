@@ -17,8 +17,8 @@ This task was divided into **4 parts**:
 
 ---
 
-## Pending Part 🚧  
-I couldn’t finish **fixing the inverted text input**, but I’ll keep working on it!  
+![My Output](Task-09/output.gif)
+ 
 
 ---
 
