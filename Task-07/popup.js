@@ -10,7 +10,7 @@ document.getElementById("getWeather").addEventListener("click", async () => {
     weatherInfoDiv.textContent = "Fetching weather data...";
   
     try {
-      const apiKey = "YOUR_API_KEY_HERE";
+      const apiKey = "82e5ae004a72c3ebd47df74e5a8c24f2";
       const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${apiKey}`);
       const data = await response.json();
   
