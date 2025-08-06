@@ -1,6 +1,3 @@
-// Adding event listeners for button clicks and key presses
-
-// Function to play the corresponding sound
 function playSound(key) {
     switch (key) {
       case "w":
@@ -36,7 +33,6 @@ function playSound(key) {
     }
   }
   
-  // Adding the event listeners to buttons
   var drumButtons = document.querySelectorAll(".drum");
   
   drumButtons.forEach((button) => {
@@ -46,7 +42,6 @@ function playSound(key) {
     });
   });
   
-  // Adding the event listener for keypresses
   document.addEventListener("keydown", function (event) {
     playSound(event.key);
   });

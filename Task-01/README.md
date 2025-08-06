@@ -53,15 +53,15 @@ In the final part, I combined all the codes obtained from the previous parts. Us
 echo <base64_encoded_string> | base64 --decode
 ```
 
-After cloning the repository, I navigated to the `.txt` file within it. The file displayed a final message confirming that I had successfully overcome all obstacles and completed the task! 🎉✨
+After cloning the repository, I navigated to the `.txt` file within it. The file displayed a final message confirming that I had successfully overcome all obstacles and completed the task! 
 
 ---
 
-## Highlights 🌟:
+## Highlights :
 - **Organized workflow**: Created a structured folder setup for task management.
 - **Revised and learned commands**: Strengthened Linux terminal skills.
 - **Efficient Git usage**: Utilized branching, log commands, and file management.
 - **Problem-solving**: Tackled challenges step by step to complete the task.
 
-It was an exciting journey full of learning and challenges! ✨⚙️
+It was an exciting journey full of learning and challenges! 
 
